@@ -2,3 +2,4 @@ codecademy-cpp.code-workspace
 
 .fake
 *.exe
+.vscode/tasks.json
